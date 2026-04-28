@@ -1,0 +1,14 @@
+{
+  "ahmed": {
+    "email": "ahmed@gmail.com",
+    "password": "$2b$12$AoPAzCYR7euLMPxaaDlq5Orglq6CzwNlrC9EUUL7cuRTzEfs..iI6",
+    "created_at": "2026-04-21T22:16:47.252843",
+    "role": "user"
+  },
+  "souha_guezguez": {
+    "email": "souha.guezguez@gmail.com",
+    "password": "$2b$12$yLyBoubZhi7X47J2IFUpB.Qvew.Nc8ze1wJYOeplrYaCstNkkGdYi",
+    "created_at": "2026-04-25T15:00:11.626032",
+    "role": "user"
+  }
+}

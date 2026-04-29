@@ -10,5 +10,11 @@
     "password": "$2b$12$yLyBoubZhi7X47J2IFUpB.Qvew.Nc8ze1wJYOeplrYaCstNkkGdYi",
     "created_at": "2026-04-25T15:00:11.626032",
     "role": "user"
+  },
+  "jamil": {
+    "email": "jamil@gmail.com",
+    "password": "$2b$12$s3VXHamzXucUBEHbl7XjMeRmz9/iMuHl820r2iW8bvgAhOxQQIWOG",
+    "created_at": "2026-04-29T16:10:06.341433",
+    "role": "user"
   }
 }

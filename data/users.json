@@ -15,11 +15,17 @@
     "email": "jamil@gmail.com",
     "password": "$2b$12$s3VXHamzXucUBEHbl7XjMeRmz9/iMuHl820r2iW8bvgAhOxQQIWOG",
     "created_at": "2026-04-29T16:10:06.341433",
-  "SouhaGuezguez": {
-    "email": "souhaguezguez@gmail.com",
-    "password": "$2b$12$RLgVmYKwM.OtDm9bUCNspuFiMJP7vPdPNKaM8rEwtiBjJ1wv1f07m",
-    "created_at": "2026-04-29T20:53:55.210942",
+    "SouhaGuezguez": {
+      "email": "souhaguezguez@gmail.com",
+      "password": "$2b$12$RLgVmYKwM.OtDm9bUCNspuFiMJP7vPdPNKaM8rEwtiBjJ1wv1f07m",
+      "created_at": "2026-04-29T20:53:55.210942",
+      "role": "user"
+    }
+  },
+  "Souha": {
+    "email": "souha@gmail.com",
+    "password": "$2b$12$PGlU8U9IhT3cqdv8O9RQSubETVYxggbgoIZHTNZSrpm3XRKcJrYmG",
+    "created_at": "2026-04-29T21:26:13.624377",
     "role": "user"
   }
-}
 }
